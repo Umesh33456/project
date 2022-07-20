@@ -1,4 +1,4 @@
-name: "Push repo to aws github codecommit"
+name: "Push repo to aws github codecommit "
 
 # if you want manually trigger this action pls unmark this line
 # on: [ workflow_dispatch ]
