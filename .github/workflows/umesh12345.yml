@@ -4,7 +4,7 @@ name: "Push repo to aws github codecommit"
 # on: [ workflow_dispatch ]
 on:
   push:
-    branches: [ devop ]
+    branches: 
     - '*'
 
 jobs:
